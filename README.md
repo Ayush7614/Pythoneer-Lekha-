@@ -8,7 +8,7 @@ Pythoneer Lekha is repository in which i push the codes of my python learning ex
 
 ## Stargazers Over Time
 
-[![Stargazers over time](https://starchart.cc/Ayush7614/Pythoneer-Lekha-.svg)](https://starchart.cc/Ayush7614/Pythoneer-Lekha-)
+[![Stargazers over time](https://starchart.cc/Ayush7614/Pythoneer-Lekha-svg)](https://starchart.cc/Ayush7614/Pythoneer-Lekha-)
 
 ## LICENSE
 This project follows the [MIT License](https://github.com/Ayush7614/Pythoneer-Lekha-/blob/master/LICENSE).
