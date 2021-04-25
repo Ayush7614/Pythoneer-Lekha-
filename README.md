@@ -7,25 +7,25 @@ Pythoneer Lekha is repository in which i push the codes of my python learning ex
 
 ## Contributing
 
-**1.**  Fork [this](https://github.com/Ayush7614/Automatic-Birthday-Wisher.git) repository.
+**1.**  Fork [this](https://github.com/Ayush7614/Pythoneer-Lekha-.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone --depth 1 https://github.com/<your_name>/Automatic-Birthday-Wisher.git
+git clone --depth 1 https://github.com/<your_name>/Pythoneer-Lekha-.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Automatic-Birthday-Wisher
+cd Pythoneer-Lekha-
 
 ```
 
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/Ayush7614/Automatic-Birthday-Wisher.git
+git remote add upstream https://github.com/Ayush7614/Pythoneer-Lekha-.git
 ```
 
 **5.** Check the remotes for this repository.
